@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/react/0.14.0/react.js"></script>
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/react/0.14.0/react-dom.js"></script>
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/babel-core/5.8.23/browser.min.js"></script>
+
+        <title>React exercise</title>
+    </head>
+
+    <body>
+        <div id="light"></div>
+        <script type="text/babel">
+            //ES6 class
+            class StateChanger extends React.Component{
+                constructor(){
+                    super(); //a child class constructor cannot make use of 'this' until super() has been called
+                    this.state = { status: 'green' }; //initial state is setup in the constructor
+                    this.changeGreen = this.changeGreen.bind(this); //Bind 'this' to the function: Now inside the function 'this' refers to the class
+                    this.changeRed = this.changeRed.bind(this);
+                }
+                changeGreen(){
+                    this.setState({status: 'green'});
+                }
+                changeRed(){
+                    this.setState({status: 'red'});
+                }
+                render(){
+                    return(
+                            <div>
+                                <h1>The state changer: </h1>
+                                <h2 style={{color: `${this.state.status}`}}>{this.props.name} is now: {this.state.status}</h2>
+
+                                <button onClick={this.changeGreen}>Change to Green</button><span> </span>
+                                <button onClick={this.changeRed}>Change to Red</button>
+                            </div>
+                    );
+                }
+            }
+            //Now create the component inside the DOM
+            ReactDOM.render(<StateChanger name="The State Changer Component"></StateChanger>, document.getElementById("light"));
+        </script>
+    </body>
+</html>
