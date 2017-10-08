@@ -3,6 +3,7 @@
 ## Plan
 
 Before Day-1, complete the tasks given in message on moodle
+
 ---
 For this period you can use whatever **IDE/editor** you like. If you prefer the same editor as the one i'm using during demo's you should:
 * [Install](https://code.visualstudio.com/download) Visual Studio Code(vs-code) 
