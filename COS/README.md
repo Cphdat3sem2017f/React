@@ -5,7 +5,7 @@ Before Day-1, complete the tasks given in message on moodle
 
 ### Day 1 - Single Page Applications, ES6 for React Developers, first intro to React
 
-- [exercises](https://docs.google.com/document/d/1ae7MtxCZaq8EhpiJJpVgGP-e3pKqOdlKBo_u2qnjWlc/edit?usp=sharing)
+- [exercises](https://docs.google.com/document/d/1ae7MtxCZaq8EhpiJJpVgGP-e3pKqOdlKBo_u2qnjWlc/edit?usp=sharing) (make sure to read/skim the articles refered to in the exercises)
 - [Slides](http://slides.mydemos.dk/reactIntro/reactIntro.html)
 
 
