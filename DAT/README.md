@@ -38,7 +38,7 @@ Day 1: [ES6 features](http://qnimate.com/post-series/ecmascript-6-complete-tutor
 
 Day 2: [JSX](https://reactjs.org/docs/introducing-jsx.html) - [Components and props](https://reactjs.org/docs/components-and-props.html) - [Small demo project](/demo/propsDemo) - [Events](https://reactjs.org/docs/handling-events.html) - 
 
-Day 3: [Forms](https://reactjs.org/docs/forms.html) - [Controlled components](https://reactjs.org/docs/forms.html#controlled-components) - [List and keys](https://reactjs.org/docs/lists-and-keys.html) - [State and lifecyckel methods](https://reactjs.org/docs/state-and-lifecycle.html) - [Lifting state up](https://reactjs.org/docs/lifting-state-up.html).
+Day 3: [Forms](https://reactjs.org/docs/forms.html) - [Controlled components](https://reactjs.org/docs/forms.html#controlled-components) - [List and keys](https://reactjs.org/docs/lists-and-keys.html) - [State and lifecycle methods](https://reactjs.org/docs/state-and-lifecycle.html) - [Lifting state up](https://reactjs.org/docs/lifting-state-up.html).
 
 Day 4: Data storage (Mobx light: datamapning mod server. One file pr. REST resource.) 
 
@@ -58,11 +58,11 @@ Day 10: Exam prep with native + shopping list native.
 
 ### Exercises
 
-[Day 1 exercise](https://docs.google.com/document/d/1mCDQgNCKxZwO6cx2FyhwK6-srgZCVVvYCTFGXglrhpg/edit?usp=sharing) 
-[Day 2 exercise](https://docs.google.com/document/d/1OGHsWR8gvubw4R64GBEQqkiPxZutxmWFsd7Ac5z0ygg/edit?usp=sharing) 
-[Day 3 exercise](https://docs.google.com/document/d/15oxKKJXSJ1uju8wmRJNXnSE2QuegfwL-Rm3dmtBOhfw/edit?usp=sharing) 
-[Day 4 exercise](https://docs.google.com/document/d/1cKgFbuaoCV3J001uxSFLe7iw6gfDOIhuQKGG0hfWze4/edit?usp=sharing) 
-[Day 5 SP exercise](https://docs.google.com/document/d/11s2j4S8jpg0X41ARuxC3jgkvD5ikKL8FOqoCBVNNspI/edit?usp=sharing)  
+[Day 1 exercise](https://docs.google.com/document/d/1mCDQgNCKxZwO6cx2FyhwK6-srgZCVVvYCTFGXglrhpg/edit?usp=sharing)   
+[Day 2 exercise](https://docs.google.com/document/d/1OGHsWR8gvubw4R64GBEQqkiPxZutxmWFsd7Ac5z0ygg/edit?usp=sharing)   
+[Day 3 exercise](https://docs.google.com/document/d/15oxKKJXSJ1uju8wmRJNXnSE2QuegfwL-Rm3dmtBOhfw/edit?usp=sharing)   
+[Day 4 exercise](https://docs.google.com/document/d/1cKgFbuaoCV3J001uxSFLe7iw6gfDOIhuQKGG0hfWze4/edit?usp=sharing)   
+[Day 5 SP exercise](https://docs.google.com/document/d/11s2j4S8jpg0X41ARuxC3jgkvD5ikKL8FOqoCBVNNspI/edit?usp=sharing)    
 
 #### Further Readings
 
