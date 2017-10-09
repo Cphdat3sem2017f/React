@@ -20,12 +20,16 @@ For this period you can use whatever **IDE/editor** you like. If you prefer the 
 
 ### Day 2 - JSX, Components and Props. State and Lifecycle Methods
 
+[Read the matching chapter in the docs](https://reactjs.org/) The easiest way to learn React
+
 - [Exercises](https://docs.google.com/document/d/10zi2rqmWIE4lRCCvA764gYp615IrQFOZuXP2rnkBvt0/edit?usp=sharing) (make sure to read/skim the articles refered to in the exercises)
-- [Slides - will come](#)
+- [Slides](http://slides.mydemos.dk/react2/react2.html)
 
 
 ### Day 3 - Forms, List and keys, Lifting state up.
-TBD
+
+[Read the matching chapter in the docs](https://reactjs.org/) The easiest way to learn React
+
 ### Day 4 - React with a backend. fetch and promisses
 TBD
 ### Day 5 - Study point exercises
