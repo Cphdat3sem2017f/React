@@ -18,9 +18,13 @@ For this period you can use whatever **IDE/editor** you like. If you prefer the 
 - [Slides](http://slides.mydemos.dk/reactIntro/reactIntro.html) (optimized for Google Chrome)
 
 
-### Day 2 - JSX, Components and Props
-TBD
-### Day 3 - Forms, List and keys, State and lifecyckel methods, Lifting state up.
+### Day 2 - JSX, Components and Props. State and Lifecycle Methods
+
+- [Exercises](https://docs.google.com/document/d/10zi2rqmWIE4lRCCvA764gYp615IrQFOZuXP2rnkBvt0/edit?usp=sharing) (make sure to read/skim the articles refered to in the exercises)
+- [Slides - will come](#)
+
+
+### Day 3 - Forms, List and keys, Lifting state up.
 TBD
 ### Day 4 - React with a backend. fetch and promisses
 TBD
