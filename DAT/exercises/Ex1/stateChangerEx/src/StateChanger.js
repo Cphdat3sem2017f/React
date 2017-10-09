@@ -21,7 +21,8 @@ export default class StateChanger extends Component{
             <div>
                 <h1>The state changer: </h1>
                 <h2 style={{color: `${this.state.status}`}}>{this.props.name} is now: {this.state.status}</h2>
-
+                <img src="img/boat1.jpg" />
+                <img src={ require('./img/boat1.jpg') } />
                 <button onClick={this.changeGreen}>Change to Green</button><span> </span>
                 <button onClick={this.changeRed}>Change to Red</button>
             </div>
