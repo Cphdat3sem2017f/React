@@ -6,7 +6,7 @@ ReactJS is a component based javascript library, that helps us write better and 
 
 - Angular2 (or AngularJS), Vue, Ember.js and even jQuery and many more. Some are libraries some are full grown frameworks
 
-###Topics
+### Topics
 | Topic                                | Content                                  | Resource                                 |
 | ------------------------------------ | ---------------------------------------- | :--------------------------------------- |
 | 1. SPA architecture                  | why do we need js frameworks?            | [Video: 52 mins](https://www.youtube.com/watch?v=vXjVFPosQHw)<br/>,          [Article](https://blog.poki.com/front-end-walkthrough-building-a-single-page-application-from-scratch-d47c35fdc830) |
@@ -19,9 +19,6 @@ ReactJS is a component based javascript library, that helps us write better and 
 | 8. Lifecyckle methods                | componentWillMount, componentWillReceiveProps etc. | [When and why](https://engineering.musefind.com/react-lifecycle-methods-how-and-when-to-use-them-2111a1b692b1) |
 | 9. React with router                 | react-router                             |                                          |
 | 10. React with backend               | json-server (locally), rest api backend  |                                          |
-|                                      |                                          |                                          |
-|                                      |                                          |                                          |
-|                                      |                                          |                                          |
 
 #### First example
 
@@ -37,19 +34,35 @@ And Eggheads [video tutorials here](https://egghead.io/lessons/react-react-funda
 
 ### Rough plan
 
-Day 1: ES6 features - Why react? - The basic structure of a react class and [rendering](https://reactjs.org/docs/rendering-elements.html) - quick intro to create-react-app
+Day 1: [ES6 features](http://qnimate.com/post-series/ecmascript-6-complete-tutorial/) - Why react? - The basic structure of a react class and [rendering](https://reactjs.org/docs/rendering-elements.html) - quick intro to create-react-app
 
 Day 2: [JSX](https://reactjs.org/docs/introducing-jsx.html) - [Components and props](https://reactjs.org/docs/components-and-props.html) - [Small demo project](/demo/propsDemo) - [Events](https://reactjs.org/docs/handling-events.html) - 
 
-Day 3: [Forms](https://reactjs.org/docs/forms.html) - [List and keys](https://reactjs.org/docs/lists-and-keys.html) - [State and lifecyckel methods](https://reactjs.org/docs/state-and-lifecycle.html) - [Lifting state up](https://reactjs.org/docs/lifting-state-up.html).
+Day 3: [Forms](https://reactjs.org/docs/forms.html) - [Controlled components](https://reactjs.org/docs/forms.html#controlled-components) - [List and keys](https://reactjs.org/docs/lists-and-keys.html) - [State and lifecyckel methods](https://reactjs.org/docs/state-and-lifecycle.html) - [Lifting state up](https://reactjs.org/docs/lifting-state-up.html).
+
+Day 4: Data storage (Mobx light: datamapning mod server. One file pr. REST resource.) 
+
+Day 5: Todolist laves om til shopping list + 2 * exam prep assignments
+
+Day 6: Summing up and Router continued.
+
+Day 7: Router continued + seed.
+
+Day 8: Native
+
+Day 9: Native
+
+Day 10: Exam prep with native + shopping list native.
+
+
 
 ### Exercises
 
-[Day 1 exercise](exercises/Ex1/day1ex.md) 
-[Day 2 exercise](exercises/Ex2/day2ex.md) 
-[Day 3 exercise](exercises/day3ex.md) 
-[Day 4 exercise](exercises/day4ex.md) 
-[Day 5 SP exercise](exercises/day5ex.md)  
+[Day 1 exercise](https://docs.google.com/document/d/1mCDQgNCKxZwO6cx2FyhwK6-srgZCVVvYCTFGXglrhpg/edit?usp=sharing) 
+[Day 2 exercise](https://docs.google.com/document/d/1OGHsWR8gvubw4R64GBEQqkiPxZutxmWFsd7Ac5z0ygg/edit?usp=sharing) 
+[Day 3 exercise](https://docs.google.com/document/d/15oxKKJXSJ1uju8wmRJNXnSE2QuegfwL-Rm3dmtBOhfw/edit?usp=sharing) 
+[Day 4 exercise](https://docs.google.com/document/d/1cKgFbuaoCV3J001uxSFLe7iw6gfDOIhuQKGG0hfWze4/edit?usp=sharing) 
+[Day 5 SP exercise](https://docs.google.com/document/d/11s2j4S8jpg0X41ARuxC3jgkvD5ikKL8FOqoCBVNNspI/edit?usp=sharing)  
 
 #### Further Readings
 
