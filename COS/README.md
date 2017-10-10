@@ -41,7 +41,8 @@ Today's readings:
 - [Lifting State Up](https://reactjs.org/docs/lifting-state-up.html)
 - [Conditional Rendering](https://reactjs.org/docs/conditional-rendering.html)
 
-[exercises](https://docs.google.com/document/d/1jcID_BCywrYf48ee0X9oUHgJOxRfZgRQKczCWQiLGvE/edit?usp=sharing)
+- [exercises](https://docs.google.com/document/d/1jcID_BCywrYf48ee0X9oUHgJOxRfZgRQKczCWQiLGvE/edit?usp=sharing)
+- [slides](http://slides.mydemos.dk/react2/react2.html#12)
 
 ### Day 4 - React with a backend. fetch and promisses
 TBD
