@@ -14,7 +14,7 @@ For this period you can use whatever **IDE/editor** you like. If you prefer the 
 
 ### Day 1 - Single Page Applications, ES6 for React Developers, first intro to React
 
-- [Exercises](https://docs.google.com/document/d/1ae7MtxCZaq8EhpiJJpVgGP-e3pKqOdlKBo_u2qnjWlc/edit?usp=sharing) (make sure to read/skim the articles refered to in the exercises)
+- [Exercises Day1](https://docs.google.com/document/d/1ae7MtxCZaq8EhpiJJpVgGP-e3pKqOdlKBo_u2qnjWlc/edit?usp=sharing) (make sure to read/skim the articles refered to in the exercises)
 - [Slides](http://slides.mydemos.dk/reactIntro/reactIntro.html) (optimized for Google Chrome)
 
 
@@ -27,7 +27,7 @@ Today's readings:
 - [State and LifeCycle](https://reactjs.org/docs/state-and-lifecycle.html)
 - [Handling Events](https://reactjs.org/docs/handling-events.html)
 ---
-- [Exercises](https://docs.google.com/document/d/10zi2rqmWIE4lRCCvA764gYp615IrQFOZuXP2rnkBvt0/edit?usp=sharing) (make sure to read/skim the articles refered to in the exercises)
+- [Exercises Day2](https://docs.google.com/document/d/10zi2rqmWIE4lRCCvA764gYp615IrQFOZuXP2rnkBvt0/edit?usp=sharing) (make sure to read/skim the articles refered to in the exercises)
 - [Slides](http://slides.mydemos.dk/react2/react2.html)
 
 
@@ -41,10 +41,10 @@ Today's readings:
 - [Lifting State Up](https://reactjs.org/docs/lifting-state-up.html)
 - [Conditional Rendering](https://reactjs.org/docs/conditional-rendering.html)
 ---
-- [exercises](https://docs.google.com/document/d/1jcID_BCywrYf48ee0X9oUHgJOxRfZgRQKczCWQiLGvE/edit?usp=sharing)
+- [exercises Day3](https://docs.google.com/document/d/1jcID_BCywrYf48ee0X9oUHgJOxRfZgRQKczCWQiLGvE/edit?usp=sharing)
 - [slides](http://slides.mydemos.dk/react2/react2.html#12)
 
 ### Day 4 - React with a backend. fetch and promisses
 TBD
 ### Day 5 - Study point exercises
-TBD
+[SP6](https://docs.google.com/document/d/1oHvEEG0KjiJvrYVDg66SqyO_INSVhefGPHANGVxwRow/edit?usp=sharing)
