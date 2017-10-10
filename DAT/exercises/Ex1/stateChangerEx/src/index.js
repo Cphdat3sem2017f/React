@@ -5,5 +5,5 @@ import App from './App';
 import StateChanger from './StateChanger';
 import registerServiceWorker from './registerServiceWorker';
 
-ReactDOM.render(<StateChanger name="My State Changer"/>, document.getElementById('root'));
+ReactDOM.render(<StateChanger/>, document.getElementById('root'));
 registerServiceWorker();
