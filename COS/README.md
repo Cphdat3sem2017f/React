@@ -22,6 +22,11 @@ For this period you can use whatever **IDE/editor** you like. If you prefer the 
 
 [Read the matching chapter in the docs](https://reactjs.org/) The easiest way to learn React
 
+Today's readings:
+- [Components and Props](https://reactjs.org/docs/components-and-props.html)
+- [State and LifeCycle](https://reactjs.org/docs/state-and-lifecycle.html)
+- [Handling Events](https://reactjs.org/docs/handling-events.html)
+
 - [Exercises](https://docs.google.com/document/d/10zi2rqmWIE4lRCCvA764gYp615IrQFOZuXP2rnkBvt0/edit?usp=sharing) (make sure to read/skim the articles refered to in the exercises)
 - [Slides](http://slides.mydemos.dk/react2/react2.html)
 
@@ -29,6 +34,14 @@ For this period you can use whatever **IDE/editor** you like. If you prefer the 
 ### Day 3 - Forms, List and keys, Lifting state up.
 
 [Read the matching chapter in the docs](https://reactjs.org/) The easiest way to learn React
+
+Today's readings:
+- [List and Keys](https://reactjs.org/docs/lists-and-keys.html)
+- [Forms](https://reactjs.org/docs/forms.html)
+- [Lifting State Up](https://reactjs.org/docs/lifting-state-up.html)
+- [Conditional Rendering](https://reactjs.org/docs/conditional-rendering.html)
+
+[exercises](https://docs.google.com/document/d/1jcID_BCywrYf48ee0X9oUHgJOxRfZgRQKczCWQiLGvE/edit?usp=sharing)
 
 ### Day 4 - React with a backend. fetch and promisses
 TBD
