@@ -27,6 +27,7 @@ Today's readings:
 - [State and LifeCycle](https://reactjs.org/docs/state-and-lifecycle.html)
 - [Handling Events](https://reactjs.org/docs/handling-events.html)
 
+
 - [Exercises](https://docs.google.com/document/d/10zi2rqmWIE4lRCCvA764gYp615IrQFOZuXP2rnkBvt0/edit?usp=sharing) (make sure to read/skim the articles refered to in the exercises)
 - [Slides](http://slides.mydemos.dk/react2/react2.html)
 
