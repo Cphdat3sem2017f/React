@@ -3,7 +3,6 @@ import ReactDOM from 'react-dom';
 import './index.css';
 import App from './App';
 import StateChanger from './StateChanger';
-import registerServiceWorker from './registerServiceWorker';
+import Converter from './Converter';
 
-ReactDOM.render(<StateChanger/>, document.getElementById('root'));
-registerServiceWorker();
+ReactDOM.render(<Converter/>, document.getElementById('root'));
