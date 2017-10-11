@@ -45,6 +45,10 @@ Today's readings:
 - [slides](http://slides.mydemos.dk/react2/react2.html#12)
 
 ### Day 4 - React with a backend. fetch and promisses
+Today's reading
+- [Using fetch](https://developers.google.com/web/updates/2015/03/introduction-to-fetch)
+- [Using fetch with react (from react Native)](https://facebook.github.io/react-native/docs/network.html)
+
 Exercises:
 
 - [Handle async fetch with React](https://docs.google.com/document/d/1b9_S7mbnWYfPXdF_fkvWQ1yyST6s-pSFzYKgrkrRHJ8/edit?usp=sharing)
