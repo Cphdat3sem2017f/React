@@ -45,6 +45,10 @@ Today's readings:
 - [slides](http://slides.mydemos.dk/react2/react2.html#12)
 
 ### Day 4 - React with a backend. fetch and promisses
-TBD
+Exercises:
+
+- [Handle async fetch with React](https://docs.google.com/document/d/1b9_S7mbnWYfPXdF_fkvWQ1yyST6s-pSFzYKgrkrRHJ8/edit?usp=sharing)
+- [Crud with React and fetch](https://docs.google.com/document/d/1WSOodFN-8oc9oLlLlPZPTFErYxEF43sLggvAc_N_3j4/edit?usp=sharing)
+
 ### Day 5 - Study point exercises
 [SP6](https://docs.google.com/document/d/1oHvEEG0KjiJvrYVDg66SqyO_INSVhefGPHANGVxwRow/edit?usp=sharing)
