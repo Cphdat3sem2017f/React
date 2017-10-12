@@ -7,11 +7,9 @@ const dataStore = new DataStore();
 export default class CarApp extends Component {
     constructor(){
         super();
-        this.store = dataStore;
+        this.store = new DataStore();
         this.state={_data: []};
-        this.load = this.store.loadData;
-        this.load = this.load.bind(this);
-        this.load(function(data){
+        this.store.loadData(function(data){
             //const _data = data;
             this.setState({_data:data});
         }.bind(this));
@@ -20,14 +18,10 @@ export default class CarApp extends Component {
     createCar() {
         const car = {
             "make": "Mercedes",
-            "model": "K300",
+            "model": "QQQQ",
             "year": 1948
         };
-        this.store.createCar(car, function(data){
-            this.load(function(data){
-                this.setState({_data:data});
-            }).bind(this);
-        });
+        this.store.createCar(car, (data)=>{this.setState({_data: data})});
     }
 
     render(){

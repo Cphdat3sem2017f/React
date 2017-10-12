@@ -25,10 +25,7 @@ class DataStore{
             }
         ).then(function(data){
             return data.json();
-        }).then(function(data){
-            // this.loadData(callback);
-            callback(data);
-        });
+        }).then(()=>this.loadData(callback));
     }
 }
 export default DataStore;
