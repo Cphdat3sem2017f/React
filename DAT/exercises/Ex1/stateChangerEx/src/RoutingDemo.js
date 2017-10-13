@@ -1,5 +1,6 @@
 /**
  * Created by tha on 12-10-2017.
+ * Based on: "https://medium.com/@pshrmn/a-simple-react-router-v4-tutorial-7f23ff27adf"
  */
 import React, { Component } from 'react';
 import { Switch, Route, Link } from 'react-router-dom'

@@ -23,7 +23,7 @@ export default class StateChanger extends Component{
             <div>
                 <h1>The state changer: </h1>
                 <h2 style={{color: `${this.state.status}`}}>{this.props.name} is now: {this.state.status}</h2>
-                {/*<img src={this.state.img}/>*/}
+                <img src={this.state.img}/>
                 <Image path={this.state.img} text="bla vlalblablalblabla"/>
                 {/*<img src={ require(this.state.imgs[0]) } />*/}
                 <button onClick={this.changeImg1.bind(this)}>Change to image 1</button><span> </span>
