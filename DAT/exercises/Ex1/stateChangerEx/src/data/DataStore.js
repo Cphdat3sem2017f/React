@@ -12,8 +12,13 @@ class DataStore{
         fetch(URL, {method: 'GET'}).then(function(data){
             return data.json();
         }).then(function(data){
-            console.log(data);
-            callback(data);
+            //console.log(data);
+            const filtered = data.filter((e,idx)=>idx>10 && idx<=15);
+            console.log('filtered: '+filtered.length);
+            callback(filtered);
+        }).catch((err)=>{
+            console.log("Could not fetch data from server. Is the backend running?")
+            callback(null);
         });
     }
     createCar(car, callback){

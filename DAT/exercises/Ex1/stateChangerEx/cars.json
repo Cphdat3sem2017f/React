@@ -103,12 +103,6 @@
       "year": "1111"
     },
     {
-      "id": 26,
-      "make": "ford",
-      "model": "fiesta",
-      "year": "1999"
-    },
-    {
       "id": 27,
       "make": "ford",
       "model": "fiesta",
@@ -133,22 +127,10 @@
       "id": 30
     },
     {
-      "make": "audi",
-      "model": "a4",
-      "year": "1899",
-      "id": 31
-    },
-    {
       "make": "ford",
       "model": "fiat",
       "year": "1999",
       "id": 32
-    },
-    {
-      "make": "ford",
-      "model": "fiat",
-      "year": "1999",
-      "id": 33
     },
     {
       "id": 34,

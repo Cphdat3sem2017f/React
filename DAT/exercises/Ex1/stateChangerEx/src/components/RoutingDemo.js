@@ -5,7 +5,7 @@
 import React, { Component } from 'react';
 import { Switch, Route, Link } from 'react-router-dom'
 //import { Link } from 'react-router-dom';
-import './css/routing.css';
+import '../css/routing.css';
 
 const products = [
     {number: '101', name: 'Wetsuit', price: 3.00}

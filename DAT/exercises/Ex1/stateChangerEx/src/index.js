@@ -1,14 +1,16 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
-import './index.css';
-import App from './App';
-//import StateChanger from './StateChanger';
-import Converter from './Converter';
+import './css/index.css';
+import App from './components/App';
+import StateChanger from './components/StateChanger';
+import Converter from './components/Converter';
 import { BrowserRouter } from 'react-router-dom';
-import RoutingDemo from './RoutingDemo';
-import CarApp from './CarApp';
+import RoutingDemo from './components/RoutingDemo';
+import CarApp from './components/CarApp';
+import Data3Ways from './components/Data3Ways';
 
-ReactDOM.render(<CarApp/>, document.getElementById('root'));
+//ReactDOM.render(<CarApp/>, document.getElementById('root'));
+ReactDOM.render(<Data3Ways/>, document.getElementById('root'));
 
 {/* Use this for router demo
  (<BrowserRouter>

@@ -2,19 +2,25 @@
  * Created by tha on 12-10-2017.
  */
 import React, { Component } from 'react';
-import DataStore from './data/DataStore';
+import DataStore from '../data/DataStore';
+import Observable from '../data/ObservableDemo';
 export default class CarApp extends Component {
     constructor(){
         super();
+        this.carStore = new Observable();
+        this.carStore.addObserver(this);
         this.store = new DataStore();
         this.state={_data: [], car:{id:'',make:'',model:'',year:''}};
-        this.store.loadData((data)=>{this.setState({_data:data});});
+        this.store.loadData((data)=>{this.setState({_data:data});}); //the callback is called from within the fetch().then() method in the DataStore whenever data is provided from the server
+
         this.createCar = this.createCar.bind(this);
         this.deleteCar = this.deleteCar.bind(this);
         this.editCar = this.editCar.bind(this);
         this.update = this.update.bind(this);
         this.chooseCar = this.chooseCar.bind(this);
     }
+    //This method is here because this class is an observer (watcing class in data/Observable.js)
+    notify = (data)=>{console.log(data)};
     createCar() {
         // const car = {
         //     "make": "Mercedes",
@@ -60,6 +66,7 @@ export default class CarApp extends Component {
             <input value={this.state.car.id} onChange={this.update} id="id" placeholder="car id"/>
             <button onClick={this.editCar}>Edit a car</button>
             <button onClick={this.deleteCar}>Delete a car</button><br/>
+            <button onClick={()=>{this.carStore.loadCars();}}>Talk to the observable</button><br/>
             <ul>
                 {cars}
             </ul>
@@ -69,8 +76,9 @@ export default class CarApp extends Component {
 }
 const CarDetail = (props)=>{
     return(
-        <div>
-            {props.car.make}
+        <div id="cardetails">
+            <h2>Details on car no {props.car.id}</h2>
+            {props.car.make} {props.car.model} form {props.car.year}
         </div>
     );
 };
