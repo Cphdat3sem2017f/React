@@ -1,4 +1,4 @@
-# Single Page Applications, React and ES6
+# REACT WEEK-1 *Single Page Applications, React and ES6*
 
 ## Plan
 
