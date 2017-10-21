@@ -38,7 +38,7 @@ Today's readings/watching:
 
 ---
 - [exercises Day3](https://docs.google.com/document/d/1Rno9-x_B4dJwEDonpDpcq-gY3EjSxf9Lt42s9GKpYDE/edit?usp=sharing)
-- [slides](http://slides.mydemos.dk/react2/react2.html#12)
+- [slides](https://efif.sharepoint.com/sites/cph/Lyngby/_layouts/15/guestaccess.aspx?docid=04450ab78c4af4a52b57374a8a0bbab99&authkey=Abf1DjeZQAopUlja2hem9cs)
 
 ## Day 4 - React Native Continued
 
