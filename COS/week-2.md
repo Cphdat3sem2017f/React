@@ -40,7 +40,7 @@ Today's readings/watching:
 - [exercises Day3](https://docs.google.com/document/d/1Rno9-x_B4dJwEDonpDpcq-gY3EjSxf9Lt42s9GKpYDE/edit?usp=sharing)
 - [slides](http://slides.mydemos.dk/react2/react2.html#12)
 
-### Day 4 - React Native Continued
+## Day 4 - React Native Continued
 
 Today's reading
 
@@ -50,5 +50,5 @@ Exercises:
 
 TBD
 
-### Day 5 - Study point exercises
+## Day 5 - Study point exercises
 [SP7](#)
