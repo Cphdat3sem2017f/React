@@ -1,4 +1,4 @@
-# REACT WEEK-2 *React and REACT Native*
+# WEEK-2 *React and REACT Native*
 
 ## Plan
 
