@@ -2,7 +2,7 @@
 
 ## Plan
 
-## Week2, day 1 - React Router
+## Day 1, Week2  - React Router
 
 Before Day-1
 
@@ -14,7 +14,7 @@ Before Day-1
 - [Exercises day1](https://docs.google.com/document/d/1o-VeUXFtrMHvkQ6HfuwHHgefiviFk1Uu_5BcpSsPWFg/edit?usp=sharing)
 - [Slides](http://sem3slides.mydemos.dk/reactRouting/routing.html#1) (optimized for Google Chrome)
 
-## Week2, day 2 - React Router continued, the Semester Seed and COORS
+## Day 2, Week2 - React Router continued, the Semester Seed and COORS
 
 Today's readings:
 - Skim this article [Cross-Origin Resource Sharing (CORS)](https://developer.mozilla.org/en-US/docs/Web/HTTP/CORS) before the lesson, and read after the lesson
@@ -23,7 +23,7 @@ Today's readings:
 ---
 - [Exercises Day2](https://docs.google.com/document/d/1c-yHpIyWqiH0PNKoW6IAGUJi7OLe8v0wRiivXd0pgfM/edit?usp=sharing)
 
-## Week2, day 3 - React Native
+##  Day 3, Week2 - React Native
 
 Before Day-3
 
@@ -40,7 +40,7 @@ Today's readings/watching:
 - [exercises Day3](https://docs.google.com/document/d/1Rno9-x_B4dJwEDonpDpcq-gY3EjSxf9Lt42s9GKpYDE/edit?usp=sharing)
 - [slides](https://efif.sharepoint.com/sites/cph/Lyngby/_layouts/15/guestaccess.aspx?docid=04450ab78c4af4a52b57374a8a0bbab99&authkey=Abf1DjeZQAopUlja2hem9cs)
 
-## Day 4 - React Native Continued
+## Day 4, Week2 - React Native Continued
 
 Today's reading
 
