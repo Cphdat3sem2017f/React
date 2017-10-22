@@ -51,4 +51,4 @@ Exercises:
 TBD
 
 ## Day 5 - Study point exercises
-[SP7](#)
+[SP7](https://docs.google.com/document/d/1i961CadjDO3nWpjhDkNkvW9RtL6MuLfMe10SkBXqbeQ/edit?usp=sharing)
