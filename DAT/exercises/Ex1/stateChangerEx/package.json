@@ -16,6 +16,7 @@
     "build": "react-scripts build",
     "test": "react-scripts test --env=jsdom",
     "eject": "react-scripts eject",
-    "backend": "json-server -p 4000 --watch cars.json"
+    "car-backend": "json-server -p 4000 --watch cars.json",
+    "book-backend": "json-server -p 4001 --watch books.json"
   }
 }

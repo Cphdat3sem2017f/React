@@ -1,6 +1,18 @@
 {
   "cars": [
     {
+      "id": 3,
+      "make": "Klamhug",
+      "model": "Numero Uno",
+      "year": 1991
+    },
+    {
+      "id": 4,
+      "make": "Uno",
+      "model": "Slow",
+      "year": 1991
+    },
+    {
       "id": 5,
       "make": "Opel",
       "model": "Kadett",
@@ -149,6 +161,12 @@
       "model": "sdsdd",
       "year": "1209",
       "id": 36
+    },
+    {
+      "make": "ford",
+      "model": "fiatto",
+      "year": "1999",
+      "id": 37
     }
   ]
 }

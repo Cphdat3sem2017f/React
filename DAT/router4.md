@@ -4,7 +4,7 @@
 
 2. Install React Router4 into the project: `npm install --save react-router-dom`
 
-3. We will use BrowserRouter (as opposed to HashRouter). Inside the index.js put: 
+3. We will use BrowserRouter for now (as opposed to HashRouter). Inside the index.js put: 
 
    ```
    ReactDOM.render((
@@ -32,7 +32,7 @@
    );
    ```
 
-6. The path attribute is used to tell the router what component to render `<Route path='/somewhere'/>` will render a component if the URL of the browser has 'somewhere' at the beginning of its path. If the path doesnt match anything. Nothing will be rendered. Use `switch` to group routes:  
+6. The path attribute is used to tell the router what component to render `<Route path='/somewhere'/>` will render a component if the URL of the browser has 'somewhere' at the beginning of its path. If the path doesn´t match anything. Nothing will be rendered. Use `switch` to group routes:  
 
    ```
    <Switch>
@@ -45,7 +45,9 @@
 
 7. component attribute is where we tell what component to render, when the path matches. (Alternatively us the `render={ somefunction that returns a component}`  
 
-8. ... to be continued...
+8. Follow this tutorial/exercise in class: [Quick start tutorial](https://docs.google.com/document/d/1o-VeUXFtrMHvkQ6HfuwHHgefiviFk1Uu_5BcpSsPWFg/edit#heading=h.iy6zb3ymcj3u)  
+
+9. See what should be working for the comming friday: [Here](http://articlesviewer.surge.sh/)  
 
 
 
