@@ -49,6 +49,8 @@
 
 9. See what should be working for the comming friday: [Here](http://articlesviewer.surge.sh/)  
 
+10. Example code from class [here](https://github.com/HartmannDemoCode/Sem3/tree/master/routerDemo)
+
 
 
 See full example code in this [github gist](https://gist.github.com/Thomas-Hartmann/64624cf718f290e3cd6e699443d719d8)  
