@@ -42,11 +42,11 @@ Today's readings/watching:
 
 ## Day 4, Week2 - React Native Continued
 
-Today's reading
+Skim all the cool [examples](https://docs.expo.io/versions/latest/sdk/video.html) on expo's docs, which will allow you to do the most amazing things, after only one day with React Native :-)
 
-TBD
+### This should be a have-fun day, see exercises below.
 
-Exercises:
+[Exercises Day4](https://docs.google.com/document/d/1cVH97IJEQhWTh1G4Dn-nqqUKIg2qjidx0Nt50qITb3c/edit?usp=sharing)
 
 TBD
 
