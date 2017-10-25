@@ -12,6 +12,16 @@
 
 ### Day 5 - Study point exercises
 
+### Day 6 - React Router
+
+### Day 7 - React Router cont. Semester Seed and CORS
+
+### Day 8 - App Development with React Native 1
+
+### Day 9 - App Development with React Native 2
+
+### Day 10 - Study point exercises
+
 ## Learning objectives
 - Learn the fundamentals of modern ES6, required to use React
 - Learn how to create modern Single Page Applications with React
