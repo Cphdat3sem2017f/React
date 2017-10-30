@@ -36,17 +36,18 @@ Today's readings/watching:
 - [Main resource for Expo](https://docs.expo.io/versions/latest/index.html)
 - [Main resource for React Native](https://facebook.github.io/react-native/docs/getting-started.html)
 
+### [SNIPPETS](https://docs.google.com/document/d/1qxRCUnNZPzEI_bc8lTT6A1WnyJ4kjo6kfWkzk9UOxuI/edit?usp=sharing)
 ---
 - [exercises Day3](https://docs.google.com/document/d/1Rno9-x_B4dJwEDonpDpcq-gY3EjSxf9Lt42s9GKpYDE/edit?usp=sharing)
 - [slides](https://efif.sharepoint.com/sites/cph/Lyngby/_layouts/15/guestaccess.aspx?docid=04450ab78c4af4a52b57374a8a0bbab99&authkey=Abf1DjeZQAopUlja2hem9cs)
 
 ## Day 4, Week2 - React Native Continued
 
-Today's reading
+Skim all the cool [examples](https://docs.expo.io/versions/latest/sdk/video.html) on expo's docs, which will allow you to do the most amazing things, after only one day with React Native :-)
 
-TBD
+### This should be a have-fun day, see exercises below.
 
-Exercises:
+[Exercises Day4](https://docs.google.com/document/d/1cVH97IJEQhWTh1G4Dn-nqqUKIg2qjidx0Nt50qITb3c/edit?usp=sharing)
 
 TBD
 
