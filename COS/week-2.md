@@ -32,7 +32,7 @@ Before Day-3
 
 Today's readings/watching:
 - [Why React Native Is Such A Big Deal](https://www.youtube.com/watch?v=CAc_PAbJkVU)
-- [Facabook, quick intro to React Native](https://facebook.github.io/react-native/)
+- [Facebook, quick intro to React Native](https://facebook.github.io/react-native/)
 - [Main resource for Expo](https://docs.expo.io/versions/latest/index.html)
 - [Main resource for React Native](https://facebook.github.io/react-native/docs/getting-started.html)
 
