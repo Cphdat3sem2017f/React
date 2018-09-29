@@ -1,4 +1,4 @@
-# Exercises React Day 1
+# Exercise part 1: create a used cars app
 
 This exercise will guide you through creating an app as a simple page, for a site selling used cars.
 
